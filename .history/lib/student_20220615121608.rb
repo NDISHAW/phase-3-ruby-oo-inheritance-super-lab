@@ -7,4 +7,9 @@ class Student
     def raise_hand
         puts "Pick me!"
     end
+
+    def raise_hand
+        10.times 
+        
+    end
 end
